@@ -59,3 +59,21 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para co
         product_Q-rate: "1 star" , "2 stars" , "3 stars" , "4 stars" , "5 stars"
     }
 ```
+## :soon: Implementação futura
+* Projeto poderá conter algumas alterações de melhorias, e podendo ter outras versões.
+
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vitormanoel39">
+        <sub>
+          <b>vitormanoel39</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## :dart: Status do projeto
+* em fase de desenvolvimento.
