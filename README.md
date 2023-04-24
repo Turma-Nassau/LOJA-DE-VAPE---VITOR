@@ -32,3 +32,18 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para co
 * Em processo de desenvolvimento.
 
 <a href="https://www.figma.com/file/zzF5MiHVC1MKFLZ49uQ3RE/Untitled?node-id=1%3A2&t=7n1VmUPkZaYKBm5S-1">STORYBOARD</a>
+
+## :game_die: Estrutura de dados
+- Usuário
+  - as informações de cadastro do usuário no hub
+  
+```s
+  Usuário {
+        user_name: "nome do usuário"
+        user_sobrenome: "sobrenome do usuário"
+        user_img: "img.jpg"
+        user_email: "xxxxxx@gmail.com"
+        user_password: "xxxxxxxxx"
+        user_id: 0000
+        user_nickname: "xxxxxxx"
+    }
