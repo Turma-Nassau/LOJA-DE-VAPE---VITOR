@@ -35,7 +35,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para co
 
 ## :game_die: Estrutura de dados
 - Usuário
-  - as informações de cadastro do usuário no hub
+  - as informações de cadastro do usuário estão no site da loja.
   
 ```s
   Usuário {
@@ -47,3 +47,15 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para co
         user_id: 0000
         user_nickname: "xxxxxxx"
     }
+   ```
+
+- Filtro
+  - o usuário deve ser capaz de filtar os produtos por: marca, nome do produto, valor e classificação do produto no site.
+  
+```s
+  filtro {
+        product_name: "Nome do produto"
+        product_style: "estilo do jogo"
+        product_Q-rate: "1 star" , "2 stars" , "3 stars" , "4 stars" , "5 stars"
+    }
+```
