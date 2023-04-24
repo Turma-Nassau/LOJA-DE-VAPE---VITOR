@@ -42,6 +42,18 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para co
         product_Q-rate: "1 star" , "2 stars" , "3 stars" , "4 stars" , "5 stars"
     }
 ```
+- produtos
+  - o usuário deve ser capaz de ver: o nome do produto, imagem e estilo
+  
+```s
+  produtos {
+        product_name:"Nome do produto"
+        product_img:"img.jpg"
+        product_style:"estilo do produto"
+        product_id:0000
+        product_rate:"x stars"
+    }
+```
 ## :soon: Implementação futura
 * Projeto poderá conter algumas alterações de melhorias, e podendo ter outras versões.
 
