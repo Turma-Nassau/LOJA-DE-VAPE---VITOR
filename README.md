@@ -28,7 +28,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para co
         user_email: "xxxxxx@gmail.com"
         user_password: "xxxxxxxxx"
         user_id: 0000
-        user_nickname: "xxxxxxx"
+    
     }
    ```
 
